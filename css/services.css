@@ -1,0 +1,23 @@
+.card{
+    margin: 0px auto;
+    border: 2px solid hsl(0, 61%, 72%);
+    background-color: rgb(231, 189, 170,0.5);
+    box-shadow: 0px 3px 5px burlywood;
+}
+.card button{
+    background-color:#431b1b;
+    border: 1px solid beige;
+}
+.card button a{
+    text-decoration: none;
+    color:aliceblue;
+    font-weight:bold;
+}
+.card button:hover{
+    background-color: rgb(186, 144, 94);
+    color: aliceblue;
+    box-shadow:0px 2px 3px antiquewhite;
+}
+.servicecontent{
+ color: #431b1b;   
+}
